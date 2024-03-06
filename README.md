@@ -39,7 +39,7 @@ R = { +10 for correctly exporting a ready product, -10 for exporting a faulty pr
 
 ## PYTHON REPRESENTATION:
 ```
-## DEVELOPED BY: AKSHAYAA M
+DEVELOPED BY: AKSHAYAA M
 REG.NO: 212222230009
 P = {
     0:{
